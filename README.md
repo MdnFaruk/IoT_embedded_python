@@ -11,7 +11,7 @@ Make a web-based measurement application for ESP32. It must be possible to read 
 The temperature, humidity and dew point measured values are displayed under the main page title. The user interface is formatted so that the title is centered and the measurement results are in a table with two columns and two rows.
 lastly all the reading data send to to automatically to the **thingspeak** channel.
 
-##Project_2
+## Project_2
 Make a web-based measurement application using ESP32 dev kit. It must be possible to read 
 the measured values via mobile phone or wifi connection.
 The customer's display shows the measured values of pressure, DHT_temp, humidity and 
@@ -23,7 +23,7 @@ the PIR sensor has responded to the movement. Adding a UPDATE button to
 the window that appears to the customer, which, when clicked, refreshes the screen and does 
 not need to be loaded from the address bar.
 
-##Project_3
+## Project_3
 Create one sensor for the cloud service and 4 modules for it. Define the modules so that 
 module1 contains the temperature measured values in table form, module2 is the 
 temperature as a line graph, module3 is the relative humidity as a line graph, and module4 is 
