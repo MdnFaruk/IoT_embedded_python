@@ -3,6 +3,7 @@
 ## Used dev kit
 - esp32
 - BME280
+- DS18B20
 - DHT11
 - PIR Motion Sensor
 
